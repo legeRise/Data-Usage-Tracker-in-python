@@ -22,9 +22,9 @@ This Python application monitors data usage and notifies the user at specified i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/legeRise/Data-Usage-Tracker-in-python.git. You can simply double-click guiUsage.exe and it will start running
+   git clone https://github.com/legeRise/Data-Usage-Tracker-in-python.git
    cd Data-Usage-Tracker-in-python
    python guiUsage.py
 
-.exe is also there if don't plan to run python program
+.exe is also there if don't plan to run python program. You can simply double-click guiUsage.exe and it will start running.
 
