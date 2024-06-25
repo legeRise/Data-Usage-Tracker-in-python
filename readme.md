@@ -27,4 +27,4 @@ This Python application monitors data usage and notifies the user at specified i
    python guiUsage.py
 
 .exe is also there if don't plan to run python program. You can simply double-click guiUsage.exe and it will start running.
-
+ 
